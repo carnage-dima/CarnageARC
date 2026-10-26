@@ -1,0 +1,164 @@
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793016644146}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793016644147}
+{"level":"debug","message":"[vite] connected.","timestamp":1793016679703}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793016786382}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793016786382}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793016787334}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793016787334}
+{"level":"debug","message":"[vite] connected.","timestamp":1793016789276}
+{"level":"debug","message":"[vite] connected.","timestamp":1793017318732}
+{"level":"debug","message":"[vite] connected.","timestamp":1793017616932}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793017924223}
+{"level":"debug","message":"[vite] connected.","timestamp":1793017928662}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793017998081}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018002341}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793018414057}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793018418056}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793018418057}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793018418057}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793018418057}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793018464575}
+{"level":"error","message":"[vite] Failed to reload /src/components/PaymentApp.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793018464575}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793018464869}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793018464869}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793018515229}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793018515229}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018546675}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018584735}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018585385}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018586820}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018591930}
+{"level":"debug","message":"[vite] connected.","timestamp":1793018591970}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793018990954}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793018991305}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793019244583}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793019245080}
+{"level":"debug","message":"[vite] connected.","timestamp":1793021918741}
+{"level":"debug","message":"[vite] connected.","timestamp":1793021938303}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022005969}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022011401}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793022038075}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022041257}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022115898}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022173173}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022173173}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022173395}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022173395}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793022180471}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022180471}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793022180472}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022180472}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022184025}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022184026}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022184026}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022184026}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022187086}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022187086}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022187088}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022187088}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022194564}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022194564}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022194565}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022194565}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022197579}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022197579}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022197580}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022197580}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022205441}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022205441}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022205442}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022205442}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022208522}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022208522}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022208523}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022208523}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022210697}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022210697}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793022210698}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022210698}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022263455}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022266108}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793022325075}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793022325075}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022385933}
+{"level":"debug","message":"[vite] invalidate /src/components/PaymentApp.tsx: Could not Fast Refresh (new export)","timestamp":1793022412214}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793022412214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022412214}
+{"level":"debug","message":"[vite] invalidate /src/components/PaymentApp.tsx: Could not Fast Refresh (new export)","timestamp":1793022412214}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793022412214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022412214}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793022412781}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022412781}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793022413181}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022413181}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022482233}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022489376}
+{"level":"debug","message":"[vite] connected.","timestamp":1793022646623}
+{"level":"error","message":"[vite] Failed to reload /src/components/PaymentApp.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793022863025}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793022863264}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022863264}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793023000560}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023000560}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023000560}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793023031298}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023031298}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023031298}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023053977}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023053977}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023055762}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023103007}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023103810}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023106903}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023112565}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023112918}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023187159}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023194732}
+{"level":"debug","message":"[vite] invalidate /src/components/PaymentApp.tsx: Could not Fast Refresh (\"glass\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793023202183}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793023202183}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023202183}
+{"level":"debug","message":"[vite] invalidate /src/components/PaymentApp.tsx: Could not Fast Refresh (\"glass\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793023202183}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentApp.tsx","timestamp":1793023202183}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023202183}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023203014}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023203014}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023203341}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023203341}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023204250}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023253490}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023254627}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023255755}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023391325}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023395511}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023409548}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023461759}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023461759}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023463338}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023465922}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023465922}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023465923}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023465923}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023471792}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023471792}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023471793}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023471793}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023475976}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023475976}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023475977}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023475977}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023482640}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023482640}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023482641}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023482641}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023540847}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023542857}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793023623653}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793023623654}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023630318}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023653352}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023653501}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023754697}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023881979}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023881980}
+{"level":"debug","message":"[vite] hot updated: /src/components/SwapPanel.tsx","timestamp":1793023888461}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023888461}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023911591}
