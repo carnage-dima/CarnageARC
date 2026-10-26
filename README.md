@@ -1,4 +1,4 @@
-# Carnage
+# CarnageARC
 
 **Live app: [carnagearc.vercel.app](https://carnagearc.vercel.app/)**
 
